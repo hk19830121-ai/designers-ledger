@@ -2,3 +2,5 @@ public/
 .hugo_build.lock
 resources/
 *.zip
+node_modules/
+.wrangler/
