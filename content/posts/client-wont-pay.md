@@ -16,7 +16,7 @@ Before the templates, four mistakes that make late payment worse:
 
 **Don't keep delivering new work on good faith.** If an invoice is overdue, pausing new work isn't rude — it's the only leverage you have, and it's standard practice. Finish what's needed to be professional, but don't start the next phase.
 
-**Don't let silence be your strategy.** Many freelancers delay following up because it feels awkward. One pattern that shows up again and again in freelancer forums is some version of: "I hate chasing payments. It's awkward. I forget to follow up." The awkwardness is understandable. It's also expensive. A polite, prompt follow-up is not a confrontation — it's bookkeeping.
+**Don't let silence be your strategy.** Many freelancers delay following up because it feels awkward. As one freelancer put it, describing why invoices slip: "I hate chasing payments. It's awkward. I forget to follow up." The awkwardness is understandable. It's also expensive. A polite, prompt follow-up is not a confrontation — it's bookkeeping.
 
 **Don't get emotional in writing.** Angry emails feel good for ten minutes and work against you for months. Every message below is firm and boring on purpose. Boring gets paid.
 
