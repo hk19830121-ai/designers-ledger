@@ -1,7 +1,7 @@
 ---
 title: "What to Do When a Client Won't Pay: A Freelance Designer's Playbook"
 description: "A step-by-step follow-up sequence for overdue invoices — what to send, when to send it, and how to set up invoicing so late payment stops happening."
-draft: true
+draft: false
 ---
 
 The work is done. The client loved it. The invoice is sitting in their inbox, unpaid, and the due date was two weeks ago.
@@ -161,5 +161,3 @@ You're not powerless — emails agreeing to the work and the price still documen
 ---
 
 Late payment is one of those problems that feels personal and is actually procedural. A planned follow-up sequence, a deposit, and invoicing terms written down before the work starts will prevent most of it — and for the cases that slip through anyway, you'll at least never again be staring at a blank email wondering what to write.
-
-*Want the templates as a copy-and-paste pack? The full set — all four follow-up emails plus the pre-project invoicing checklist — is available as a free download [link to be added].*
