@@ -131,12 +131,18 @@ It's worth reading the unhappy reviews before the happy ones, because the compla
 - A **HoneyBook** reviewer on Trustpilot headlined their review "DOES NOT DEPOSIT YOU PAYMENTS AS STATED," saying over $12K had been pending for six days.
 - **FreshBooks** reviewers on G2 raise invoicing issues (including incorrect dates and limited attachment options), and its fees are described there as burdensome for freelancers and small businesses.
 
-Tools change, policies change, and a review from a frustrated user is one side of a story. But the pattern across them is the real lesson: **the complaints are rarely "it can't make invoices." They're about money movement — holds, delays, and support when something goes wrong.** So when you compare tools, ask these questions before you ask about templates:
+Tools change, policies change, and a review from a frustrated user is one side of a story. But the pattern across them is the real lesson: **the complaints are rarely "it can't make invoices." They're about money movement — holds, delays, and support when something goes wrong.** The Bonsai complaints, for example, make more sense once you know the mechanism behind them: new accounts start on a 7–10 business day payout schedule, and ACH bank transfers add 2–5 business days of clearing before that clock even starts.
+
+Current payout timing and fees (checked November 2026 — confirm on each tool's official page before you sign up): Bonsai pays out in 7–10 business days for new accounts, then 2–4 business days once you've built a history (ACH adds 2–5 business days of bank clearing first). HoneyBook deposits card payments in 2–3 business days and ACH in 7–8 business days. FreshBooks usually takes 2–5 business days after the first payment (up to 7 business days for the very first one). Card fees are 2.9% + $0.30 at Bonsai and FreshBooks, and 2.9% + $0.25 at HoneyBook for typed-in Visa/Mastercard payments; ACH costs 1% at Bonsai and FreshBooks, 1.5% at HoneyBook.
+
+So when you compare tools, ask these questions before you ask about templates:
 
 1. How many days until funds are actually available, and what triggers a hold?
 2. What are the total fees — including the ones that only appear at payout?
 3. Does it send automatic payment reminders, and can you control the wording and timing?
 4. What do recent low-star reviews say about support when a payment is stuck?
+
+*Figures above were checked against each tool's official pages in November 2026. Re-check them right before publishing, and add affiliate links only for tools whose current terms and affiliate programs you've confirmed.*
 
 ## FAQ
 
