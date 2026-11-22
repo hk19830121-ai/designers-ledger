@@ -3,5 +3,6 @@ languageCode = "en-us"
 title = "Designer's Ledger"
 
 [params]
+  ga4ID = "G-WLEYH0KKLQ"
   tagline = "Practical playbooks for the business side of freelance design."
   description = "Designer's Ledger helps freelance designers manage clients, get paid on time, and run calmer projects — with playbooks built from real freelancer experience and real user reviews."
