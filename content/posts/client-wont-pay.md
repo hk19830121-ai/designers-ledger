@@ -1,7 +1,17 @@
 ---
 title: "What to Do When a Client Won't Pay: A Freelance Designer's Playbook"
 description: "A step-by-step follow-up sequence for overdue invoices — what to send, when to send it, and how to set up invoicing so late payment stops happening."
+date: 2026-11-21
 draft: false
+faq:
+  - q: "How long should I wait before following up on an unpaid invoice?"
+    a: "Start within a few days of the due date, with the friendly nudge. Early and polite beats late and frustrated — and a prompt first reminder often surfaces a simple problem (wrong email, missing PO number) while it's still easy to fix."
+  - q: "Should I charge late fees?"
+    a: "Only if your agreement says you can. A late fee invented after the fact is hard to enforce and easy to argue with. Put the clause in the contract for the next project, and in the meantime rely on the follow-up sequence and pausing new work."
+  - q: "Can I withhold final files until I'm paid?"
+    a: "If your contract ties delivery or usage rights to full payment, usually yes — that's what the clause is for. Without it, it depends on your situation and location. Either way, don't threaten it in an email unless your agreement backs you up."
+  - q: "What if I never had a contract?"
+    a: "You're not powerless — emails agreeing to the work and the price still document the deal — but your options are weaker, which is exactly why the setup section above matters. Get the next project in writing, even if it's a simple one-page agreement."
 ---
 
 The work is done. The client loved it. The invoice is sitting in their inbox, unpaid, and the due date was two weeks ago.

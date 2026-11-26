@@ -1,8 +1,11 @@
 baseURL = "https://designers-ledger.akumu-channel-info.workers.dev/"
 languageCode = "en-us"
 title = "Designer's Ledger"
+disableKinds = ["taxonomy", "term"]
 
 [params]
   ga4ID = "G-WLEYH0KKLQ"
+  homeTitle = "Designer's Ledger | Invoicing & Client Management for Freelance Designers"
+  ogImage = "/images/og-default.png"
   tagline = "Practical playbooks for the business side of freelance design."
   description = "Designer's Ledger helps freelance designers manage clients, get paid on time, and run calmer projects — with playbooks built from real freelancer experience and real user reviews."
